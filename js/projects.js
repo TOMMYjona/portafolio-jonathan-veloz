@@ -102,7 +102,6 @@ const PROJECTS = [
     ],
     tags: ["WordPress", "Landing", "Responsive"]
   },
-  
   {
     name: "Innovux IT",
     url: "https://innovuxit.com/",
