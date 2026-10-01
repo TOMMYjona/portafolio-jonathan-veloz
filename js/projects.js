@@ -15,6 +15,22 @@ const PROJECTS = [
     tags: ["WordPress", "Elementor", "CSS", "JavaScript", "Schema"]
   },
   {
+    name: "FIDES",
+    url: "https://fidesacc.com/",
+    category: "Finanzas",
+    code: "FID",
+    description: "Sitio corporativo para una firma contable y financiera con servicios, casos de éxito y estructura SEO orientada a negocio.",
+    participation: [
+      "Maquetación completa",
+      "Responsive",
+      "SEO on-page",
+      "Schema",
+      "Optimización",
+      "Migración y publicación"
+    ],
+    tags: ["WordPress", "SEO", "Schema", "Elementor"]
+  },
+  {
     name: "Aldeberan",
     url: "https://aldeberan.com.ec/",
     category: "Tecnología",
@@ -57,6 +73,22 @@ const PROJECTS = [
     tags: ["WordPress", "Elementor", "Salud"]
   },
   {
+    name: "Lexaval Abogados",
+    url: "https://lexavalabogados.ec/",
+    category: "Finanzas",
+    code: "LEX",
+    description: "Sitio de una firma legal especializada en Derecho de Familia.",
+    participation: [
+      "Maquetación completa",
+      "Responsive",
+      "SEO on-page",
+      "Schema",
+      "Optimización",
+      "Migración y publicación"
+    ],
+    tags: ["WordPress", "SEO", "Schema", "Elementor"]
+  },
+  {
     name: "YouBelieve",
     url: "https://youbelieve.ec/",
     category: "Salud",
@@ -70,22 +102,7 @@ const PROJECTS = [
     ],
     tags: ["WordPress", "Landing", "Responsive"]
   },
-  {
-    name: "FIDES",
-    url: "https://fidesacc.com/",
-    category: "Finanzas",
-    code: "FID",
-    description: "Sitio corporativo para una firma contable y financiera con servicios, casos de éxito y estructura SEO orientada a negocio.",
-    participation: [
-      "Maquetación completa",
-      "Responsive",
-      "SEO on-page",
-      "Schema",
-      "Optimización",
-      "Migración y publicación"
-    ],
-    tags: ["WordPress", "SEO", "Schema", "Elementor"]
-  },
+  
   {
     name: "Innovux IT",
     url: "https://innovuxit.com/",
